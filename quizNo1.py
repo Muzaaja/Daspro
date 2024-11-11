@@ -2,9 +2,9 @@
 Kelas : 1B
 NIM : 2404903"""
 
-Pdinding = 800
-Ldinding = 1000
-Tdinding = 400
+Pdinding = 1000
+Ldinding = 2000
+Tdinding = 800
 
 Meter = 100
 Harga = 450000
