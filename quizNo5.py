@@ -3,12 +3,12 @@ Kelas : 1B
 NIM : 2404903"""
 
 mobilLama = { "Merk" : "Honda",
-            "Tipe" : "HRV",
-            "Tahun" : "2018",
-            "Warna" : "Hitam",
-            "No. Polisi" :"D 1234 ABC",
+            "Tipe" : "CRV",
+            "Tahun" : "2015",
+            "Warna" : "Putih",
+            "No. Polisi" :"B 1234 ABC",
             "Bensin" : "Pertalite",
-            "Tranmisi" : "Manual" }
+            "Tranmisi" : "Matic" }
 print(mobilLama)
 
 merkBaru =  input("Masukan merk mobil baru ")
